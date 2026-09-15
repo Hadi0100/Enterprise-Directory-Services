@@ -49,7 +49,7 @@ Now, after I promoted the server to be the domain controller and installed the A
 
 And that's how the diagram comes up after adding the test user to the Helpdesk group: 
 
-      
+```text      
 CORP.LOCAL
      │
      ├─ IT
