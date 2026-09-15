@@ -49,15 +49,16 @@ Now, after I promoted the server to be the domain controller and installed the A
 
 And that's how the diagram comes up after adding the test user to the Helpdesk group: 
 
-                 CORP.LOCAL
-                     │
-            ┌────────┴────────┐
-            │                 │
-           IT            Workstations
-            │
-       ┌────┴─────┐
-       │          │
-   test.user   Helpdesk
+       ```text
+CORP.LOCAL
+     │
+     ├─ IT
+     │  ├─ test.user
+     │  └─ Helpdesk
+     │
+     └─ Workstations
+```
+
 
 After that, I configured a group policy (GPO) for the IT domain that I created earlier: 
 
