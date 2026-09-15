@@ -30,12 +30,15 @@ The second step that I took was configuring the Network and IP addresses on the 
 
 The next step I took was to go through Server Manager to add the roles and features, as well as Active Directory Domain Services: 
 
+```text
 DC01 (Domain Controller)
 └── corp.local (Root Domain)
     ├── Users
     ├── Groups
     ├── OUs (Organizational Units)
     └── Computers
+```
+
 
 
 Now, after I promoted the server to be the domain controller and installed the Active Directory features: 
