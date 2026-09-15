@@ -39,7 +39,7 @@ DC01 (Domain Controller)
     └── Computers
 ```
 
-
+---------------------------------------------------------------------------------
 
 Now, after I promoted the server to be the domain controller and installed the Active Directory features: 
 - I Created an Organizational Unit (OU).
