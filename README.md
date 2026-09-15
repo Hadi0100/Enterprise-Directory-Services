@@ -4,6 +4,7 @@ Deploying a virtualized Windows Server and Active Directory environment to manag
 
 The first step I took was setting up the lab using Oracle VirtualBox: 
 
+
                     My PC                    
                 VirtualBox
                      │
