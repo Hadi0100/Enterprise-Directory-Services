@@ -71,6 +71,8 @@ Policy settings
 Users / Computers
 
 -----------------------------------------------------------------------
+
+```text
 The final Diagram of the project until now ( I will keep updating it): 
                  DC01
           Windows Server 2022
