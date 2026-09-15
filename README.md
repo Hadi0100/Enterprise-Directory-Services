@@ -58,13 +58,32 @@ And that's how the diagram comes up after adding the test user to the Helpdesk g
    test.user   Helpdesk
 
 After that, I configured a group policy (GPO) for the IT domain that I created earlier: 
+
 OU
  ↓
 GPO
  ↓
-Policy
+Policy settings
  ↓
-Computer/User
+Users / Computers
 
+
+The final Diagram of the project until now ( I will keep updating it): 
+                 DC01
+          Windows Server 2022
+                 │
+          Active Directory
+                 │
+             corp.local
+                 │
+        ┌────────┼─────────┐
+        │        │         │
+       IT   Workstations  Users
+        │
+    test.user
+        │
+     Helpdesk
+        │
+   GPO Policy
 
 
