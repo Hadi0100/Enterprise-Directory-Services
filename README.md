@@ -58,7 +58,7 @@ CORP.LOCAL
      │
      └─ Workstations
 
-
+-------------------------------------------------------------------
 
 After that, I configured a group policy (GPO) for the IT domain that I created earlier: 
 
@@ -70,7 +70,7 @@ Policy settings
  ↓
 Users / Computers
 
-
+-----------------------------------------------------------------------
 The final Diagram of the project until now ( I will keep updating it): 
                  DC01
           Windows Server 2022
