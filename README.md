@@ -69,11 +69,15 @@ Now, after I promoted the server to be the domain controller and installed the A
 
 <img width="506" height="480" alt="Creating a Test User " src="https://github.com/user-attachments/assets/d48de05d-b0b2-4175-bc26-4134249c4619" />
 
+
 <img width="504" height="484" alt="Creating An organizational Unit OU" src="https://github.com/user-attachments/assets/43c1c0e6-cc10-4559-9ea6-fc10a82c8951" />
+
 
 <img width="501" height="478" alt="Creating group " src="https://github.com/user-attachments/assets/48c7e60a-12f4-4eab-8500-11f9a4067abd" />
 
+
 <img width="504" height="482" alt="Adding the test user to the Helpdesk group" src="https://github.com/user-attachments/assets/8b186043-e3a8-42c2-8919-5c1681002a31" />
+
 
 
 And that's how the diagram comes up after adding the test user to the Helpdesk group: 
