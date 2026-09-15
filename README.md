@@ -35,7 +35,6 @@ The second step that I took was configuring the Network and IP addresses on the 
     Internet          Private Lab
 
     <img width="617" height="442" alt="Verifying the Ipv4 configuration using ipcon<img width="501" height="478" alt="Creating group " src="https://github.com/user-attachments/assets/18c495a1-c2f6-4026-9799-c18155edcb7e" />
-fg " src="https://github.com/user-attachments/assets/2878656e-8402-4884-a836-7d82b9a70f35" />
 
     <img width="621" height="443" alt="Assigning TCP IP addresses to the Ethernet adapter 2" src="https://github.com/user-attachments/assets/752d170b-4e6e-4eba-92f6-cc1589a48a38" />
 
